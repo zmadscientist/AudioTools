@@ -1,4 +1,4 @@
-# Bob Chesebrough Audio Analysis TOols
+# Bob Chesebrough Audio Analysis Tools
 
 ## RunLengthDictionary
 A Python 3.6 routine (Jupyter Notebook) with two run length functions. 
